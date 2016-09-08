@@ -19,3 +19,4 @@ Aprende Ruby y Rails con los mejores tutoriales, cursos y libros
 Titulo Contenido | Descripcion | Link 
 ------------ | ------------- | ----------- | ---------- | -----------
 [Desarrollo de Aplicaciones con Ruby on Rails] (http://linkshrink.net/794rUu)  | Desarrollo de Aplicaciones con Ruby on Rails | http://linkshrink.net/794rUu 
+[Curso de Ruby y Rails Profesional] (http://linkshrink.net/7AdWNy)  | Curso de Ruby y Rails Profesional | http://linkshrink.net/7AdWNy 
